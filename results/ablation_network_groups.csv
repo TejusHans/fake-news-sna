@@ -1,0 +1,15 @@
+dataset,features,acc_mean,acc_std
+politifact,all,0.5131,0.0074
+politifact,all - structure,0.5186,0.0061
+politifact,all - centrality,0.5167,0.0097
+politifact,all - community,0.5131,0.0068
+politifact,only structure,0.5176,0.0097
+politifact,only centrality,0.4887,0.0149
+politifact,only community,0.5276,0.0106
+gossipcop,all,0.8075,0.001
+gossipcop,all - structure,0.8048,0.001
+gossipcop,all - centrality,0.8108,0.0006
+gossipcop,all - community,0.8013,0.0012
+gossipcop,only structure,0.8028,0.0011
+gossipcop,only centrality,0.7859,0.0013
+gossipcop,only community,0.679,0.0014

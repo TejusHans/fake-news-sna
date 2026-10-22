@@ -1,0 +1,7 @@
+dataset,seed,val_acc,test_acc,test_f1
+politifact,0,0.871,0.8235,0.8152
+politifact,1,0.8387,0.8054,0.8139
+politifact,2,0.871,0.8371,0.8286
+gossipcop,0,0.967,0.9553,0.9555
+gossipcop,1,0.9652,0.9556,0.9558
+gossipcop,2,0.9597,0.9462,0.9475

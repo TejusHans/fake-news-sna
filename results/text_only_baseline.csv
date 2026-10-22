@@ -1,0 +1,5 @@
+dataset,model,accuracy,f1
+politifact,LogReg,0.8009,0.7905
+politifact,RandomForest,0.7873,0.7565
+gossipcop,LogReg,0.7365,0.7228
+gossipcop,RandomForest,0.7256,0.6942

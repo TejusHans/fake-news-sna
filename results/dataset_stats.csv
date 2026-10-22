@@ -1,0 +1,3 @@
+dataset,graphs,real(0),fake(1),avg_nodes,median_nodes,max_nodes,min_nodes
+politifact,314,157,157,130.7,78,497,3
+gossipcop,5464,2732,2732,57.5,49,199,3

@@ -1,0 +1,7 @@
+dataset,mode,seed,val_acc,test_acc,test_f1
+politifact,structure_only,0,0.6452,0.543,0.6576
+politifact,structure_only,1,0.5484,0.5113,0.1692
+politifact,structure_only,2,0.6452,0.552,0.6621
+gossipcop,structure_only,0,0.837,0.8108,0.7961
+gossipcop,structure_only,1,0.8333,0.8029,0.7848
+gossipcop,structure_only,2,0.8352,0.7959,0.7746

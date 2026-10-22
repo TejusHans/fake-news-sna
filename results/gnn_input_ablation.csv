@@ -1,0 +1,13 @@
+dataset,mode,seed,val_acc,test_acc,test_f1
+politifact,root_only,0,0.9032,0.8235,0.8282
+politifact,root_only,1,0.871,0.8371,0.8349
+politifact,root_only,2,0.871,0.8235,0.8134
+politifact,users_only,0,0.8065,0.7692,0.7935
+politifact,users_only,1,0.7742,0.7557,0.7712
+politifact,users_only,2,0.7742,0.7557,0.7652
+gossipcop,root_only,0,0.7747,0.7891,0.8184
+gossipcop,root_only,1,0.8626,0.8502,0.8509
+gossipcop,root_only,2,0.8315,0.8259,0.8394
+gossipcop,users_only,0,0.9744,0.9712,0.9715
+gossipcop,users_only,1,0.9762,0.971,0.9712
+gossipcop,users_only,2,0.9744,0.9689,0.9694
